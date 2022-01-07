@@ -2,7 +2,7 @@ namespace ExemploPOO.Models
 {
     public class Retangulo
     {
-        private double comprimento;
+        private double comprimento;//CRIANDO 2 PROPPRIEDADES PRIVADAS DA CLASSE RETÂNGULO
         private double largura;
 
         private bool valido;
